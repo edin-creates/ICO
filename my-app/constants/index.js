@@ -580,7 +580,7 @@ export const NFT_CONTRACT_ABI = [
       "stateMutability": "payable",
       "type": "receive"
     }
-  ]";
+  ];
 export const NFT_CONTRACT_ADDRESS = 0x87F6856d3f7Ab1cF0753073A92B4DA2C40a67568;
 export const TOKEN_CONTRACT_ABI = [
     {
